@@ -1,0 +1,9 @@
+{
+  "type": "postgres",
+  "host": "salt.db.elephantsql.com",
+  "username": "givtasuf",
+  "password": "ychPYmHqHGOZOe--cBk4fsvHwGMtK_-l",
+  "database": "givtasuf",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
